@@ -18,7 +18,7 @@ const Intro = () => {
           </div>
           <div className="i-description">
               Hands-on, successful Software/Web Engineer with verifiable success leading teams in delivering appropriate technology solutions for web products.
-              Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo.
+              Currently pursuing my masters from University of Texas Dallas in Computer Science.
               
           </div>
         </div>
