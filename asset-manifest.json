@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/MyPortfolio/static/css/main.6321e6ba.css",
-    "main.js": "/MyPortfolio/static/js/main.e59b18e8.js",
+    "main.css": "/MyPortfolio/static/css/main.ba7c2689.css",
+    "main.js": "/MyPortfolio/static/js/main.c42a2cfd.js",
     "static/js/787.1ed0c42c.chunk.js": "/MyPortfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/bg-about.jpg": "/MyPortfolio/static/media/bg-about.9156e799c6d16c34c482.jpg",
+    "static/media/profile.jpg": "/MyPortfolio/static/media/profile.06efca053164614aa69a.jpg",
     "static/media/PersonalAssistant.png": "/MyPortfolio/static/media/PersonalAssistant.fd9bedb5d7fbb698fe12.png",
-    "static/media/profile.png": "/MyPortfolio/static/media/profile.70497378a78ef6d91276.png",
+    "static/media/MyResume.jpg": "/MyPortfolio/static/media/MyResume.77926c87bc03ce27b895.jpg",
     "static/media/ZodiacApp.png": "/MyPortfolio/static/media/ZodiacApp.fd34baf0374ce291d273.png",
     "static/media/sun.png": "/MyPortfolio/static/media/sun.d556e2de99490e3ec7eb.png",
     "static/media/maskDetector.png": "/MyPortfolio/static/media/maskDetector.3d50906a75784bb330b6.png",
@@ -14,12 +15,12 @@
     "static/media/moon.png": "/MyPortfolio/static/media/moon.7a52afe9177f2fab85ed.png",
     "static/media/BookFinder.png": "/MyPortfolio/static/media/BookFinder.adb2c18c9feb830f4022.png",
     "index.html": "/MyPortfolio/index.html",
-    "main.6321e6ba.css.map": "/MyPortfolio/static/css/main.6321e6ba.css.map",
-    "main.e59b18e8.js.map": "/MyPortfolio/static/js/main.e59b18e8.js.map",
+    "main.ba7c2689.css.map": "/MyPortfolio/static/css/main.ba7c2689.css.map",
+    "main.c42a2cfd.js.map": "/MyPortfolio/static/js/main.c42a2cfd.js.map",
     "787.1ed0c42c.chunk.js.map": "/MyPortfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6321e6ba.css",
-    "static/js/main.e59b18e8.js"
+    "static/css/main.ba7c2689.css",
+    "static/js/main.c42a2cfd.js"
   ]
 }
